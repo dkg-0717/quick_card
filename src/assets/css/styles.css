@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right,#8A3CCE,#3083FB);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#app{
+    width: 100%;
+    height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
